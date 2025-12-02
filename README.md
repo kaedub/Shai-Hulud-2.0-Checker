@@ -2,8 +2,6 @@
 
 Is your `yarn.lock` hiding a sandworm? This tiny script sniffs npm publish timestamps to spot versions released after a cutoff (the Shai Hulud 2.0 window). No spice required.
 
-Human Disclaimer: Other than this message, this is 100% AI slop so the code is very unreadable.
-
 ### TL;DR
 
 - Checks each `package@version` in your `yarn.lock`
